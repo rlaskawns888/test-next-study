@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders a heading 1`] = `
+<div>
+  <p>
+    Hello World
+  </p>
+  <p>
+    Hello World
+  </p>
+  <p>
+    Hello World
+  </p>
+</div>
+`;
